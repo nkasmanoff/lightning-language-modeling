@@ -1,4 +1,10 @@
-# Adapted from https://github.com/huggingface/transformers/blob/master/examples/language-modeling/run_mlm.py
+# Adapted from
+
+"""
+Adapted from  xxx
+
+Goal of this script is to instantiate  LightningDataModule for aggregated data.
+"""
 import warnings
 from datasets import load_dataset
 import pytorch_lightning as pl
